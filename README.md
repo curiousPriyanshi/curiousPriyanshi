@@ -2,7 +2,7 @@
 
 💡 A curious developer who loves building, breaking, and improving things  
 🎓 CSE Undergraduate  
-🚀 Currently focused on strengthening DSA and building solid projects  
+🚀 Currently focused on strengthening DSA and building projects  
 
 ---
 
